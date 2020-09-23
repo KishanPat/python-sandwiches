@@ -1,4 +1,4 @@
-from random import*
+from random import *
 f1=["cheese","egg","jam"]
 f2=["carrot","lettuce","pickle"]
 for s in range(0,10):
